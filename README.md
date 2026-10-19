@@ -1,0 +1,2 @@
+# premium-intarsia-wood-001-wood-intarsia-color-and-grain
+Tired of digging through bins of scrap wood, hoping to find a piece that matches your intarsia pattern? The Wood Intarsia Color and Grain Selection Hub turns chaos into a curated library.  This Notion template is a centralized system to catalog wood by color, grain direction, and texture, with visual references and a selection log. It saves hours o
